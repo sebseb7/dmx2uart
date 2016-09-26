@@ -9076,7 +9076,7 @@ W = angled&lt;p&gt;
 </classes>
 <parts>
 <part name="IC1" library="maxim" deviceset="MAX481CPA" device="" value="MAX487"/>
-<part name="C1" library="rcl" deviceset="C-EU" device="075-032X103" value="100uF"/>
+<part name="C1" library="rcl" deviceset="C-EU" device="075-032X103" value="100nF"/>
 <part name="R1" library="rcl" deviceset="R-EU_" device="0207/7" value="100R"/>
 <part name="R2" library="resistor" deviceset="R-EU_" device="0207/10" value="100R"/>
 <part name="SV1" library="con-lstb" deviceset="MA03-1" device=""/>
